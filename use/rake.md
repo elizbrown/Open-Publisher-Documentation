@@ -15,7 +15,7 @@ Open the "Books" directory to see the results.
 ## Start a New Book
 Use Rake to create a new book. It creates everything needed and puts it in the right places so that you can just write.
 
-Run the command `bundle exec rake build` and enter the title of your book when prompted.
+Run the command `bundle exec rake create` and enter the title of your book when prompted.
 
 ## Write Your Manuscript
 Paste your manuscript in `Source/_includes/$BOOK-TITLE/chapters.md`
